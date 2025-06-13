@@ -1,0 +1,5 @@
+input {
+  -webkit-appearance: none; /* Para navegadores baseados em WebKit, como Chrome e Safari */
+  -moz-appearance: none;    /* Para Firefox */
+  appearance: none;         /* Versão padrão */
+}
